@@ -1,5 +1,4 @@
 # WanderLust
-# WanderLust
 
 **WanderLust** is a full-stack web application designed for exploring, creating, and managing travel-related listings. Users can browse various listings, create new ones, leave reviews, and manage their account information. It is built using the **MERN stack** with additional libraries for authentication and user experience.
 
