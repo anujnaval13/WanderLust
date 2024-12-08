@@ -56,3 +56,16 @@
    ```bash
    git clone https://github.com/username/WanderLust.git
    cd WanderLust
+
+2. Install dependencies:
+    ```bash
+    npm install
+
+3. Set up MongoDB:
+    Ensure MongoDB is running locally or replace the mongoURL in app.js with your MongoDB URI.
+
+4. Start the server:
+    ```bash
+    node app.js
+
+5. Open the application in your browser at http://localhost:8080
