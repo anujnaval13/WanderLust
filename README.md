@@ -69,3 +69,15 @@
     node app.js
 
 5. Open the application in your browser at http://localhost:8080
+
+### Usage
+1. Register for an account
+2. Browse or search for listings.
+3. Create a new listing using the /listings/new route.
+4. Leave reviews on existing listings.
+5. Edit or delete your listings if necessary.
+
+### Future Enhancements
+1. Implement user roles (e.g., admin privileges).
+2. Add advanced search and filter options for listings.
+3. Improve UI with modern frameworks like React.
